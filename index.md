@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Rex: Welcome to my blog
 ---
 
